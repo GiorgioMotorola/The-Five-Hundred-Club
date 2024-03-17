@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Fleetwood Mac",
+    "image": "img/tusk.png",
+    "releaseDate": "2024-03-16",
+    "rating": 0
+  },
+  {
+    "title": "Fleetwood Mac - Tusk",
+    "image": "src/img/tusk.png",
+    "releaseDate": "2024-03-17",
+    "rating": 0
+  },
+  {
+    "title": "The Replacements - Tim",
+    "image": "src/img/replacements-tim.jpg",
+    "releaseDate": "2024-03-18",
+    "rating": 0
+  },
+  {
+    "title": "Album 4",
+    "image": "img/album4.png",
+    "releaseDate": "2024-03-19",
+    "rating": 0
+  },
+  {
+    "title": "Album 5",
+    "image": "img/album5.png",
+    "releaseDate": "2024-03-20",
+    "rating": 0
+  },
+  {
+    "title": "Album 6",
+    "image": "img/album6.png",
+    "releaseDate": "2024-03-21",
+    "rating": 0
+  },
+  {
+    "title": "Album 7",
+    "image": "img/album7.png",
+    "releaseDate": "2024-03-22",
+    "rating": 0
+  },
+  {
+    "title": "Album 8",
+    "image": "img/album8.png",
+    "releaseDate": "2024-03-23",
+    "rating": 0
+  },
+  {
+    "title": "Album 9",
+    "image": "img/album9.png",
+    "releaseDate": "2024-03-24",
+    "rating": 0
+  },
+  {
+    "title": "Album 10",
+    "image": "img/album10.png",
+    "releaseDate": "2024-03-25",
+    "rating": 0
+  }
+]
